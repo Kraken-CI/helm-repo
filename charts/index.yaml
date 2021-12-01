@@ -1,0 +1,31 @@
+apiVersion: v1
+entries:
+  kraken-ci:
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+    apiVersion: v2
+    appVersion: "0.753"
+    created: "2021-12-01T07:03:04.295350729+01:00"
+    description: A Helm chart of Kraken CI for Kubernetes
+    digest: f4f291b7dfc07ef94b2bedcf05149056c75612645e7f1c980cb28f5b01d22493
+    home: https://kraken.ci/
+    icon: https://kraken.ci/img/logo-big2.svg
+    keywords:
+    - kraken-ci
+    - continuous-integration
+    - ci
+    - cd
+    - ci/cd
+    - continuous-delivery
+    - continuous-testing
+    maintainers:
+    - email: mike@kraken.ci
+      name: Michal Nowikowski
+    name: kraken-ci
+    sources:
+    - https://github.com/Kraken-CI/kraken
+    type: application
+    urls:
+    - http://kraken.ci/helm-repo/charts/kraken-ci-0.753.0.tgz
+    version: 0.753.0
+generated: "2021-12-01T07:03:04.294239903+01:00"
