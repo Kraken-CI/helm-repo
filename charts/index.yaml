@@ -5,7 +5,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.753"
-    created: "2021-12-01T07:03:04.295350729+01:00"
+    created: "2021-12-01T07:19:04.752757168+01:00"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: f4f291b7dfc07ef94b2bedcf05149056c75612645e7f1c980cb28f5b01d22493
     home: https://kraken.ci/
@@ -26,6 +26,6 @@ entries:
     - https://github.com/Kraken-CI/kraken
     type: application
     urls:
-    - http://kraken.ci/helm-repo/charts/kraken-ci-0.753.0.tgz
+    - https://kraken.ci/helm-repo/charts/kraken-ci-0.753.0.tgz
     version: 0.753.0
-generated: "2021-12-01T07:03:04.294239903+01:00"
+generated: "2021-12-01T07:19:04.751667921+01:00"
