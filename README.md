@@ -2,7 +2,7 @@
 
 [Kraken CI](https://kraken.ci/) is a modern CI/CD, open-source, on-premise system that is highly scalable and focused on testing.
 
-More details about Kraken CI can be found on https://kraken.ci.
+More details about Kraken CI can be found on [https://kraken.ci](https://kraken.ci).
 
 # Kraken CI Helm Charts Repository
 
