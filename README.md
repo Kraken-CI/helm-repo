@@ -73,3 +73,4 @@ To see all configurable options with detailed comments, visit the chart's [value
 ```console
 $ helm show values kraken-ci/kraken-ci
 ```
+
