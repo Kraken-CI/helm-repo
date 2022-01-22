@@ -4,8 +4,35 @@ entries:
   - annotations:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
+    appVersion: "0.854"
+    created: "2022-01-22T05:35:57.165694044Z"
+    description: A Helm chart of Kraken CI for Kubernetes
+    digest: d198c66785cbdff8892a39d6e145c81049e836348b842a994b5b23479a32bcf0
+    home: https://kraken.ci/
+    icon: https://kraken.ci/img/logo-big2.svg
+    keywords:
+    - kraken-ci
+    - continuous-integration
+    - ci
+    - cd
+    - ci/cd
+    - continuous-delivery
+    - continuous-testing
+    maintainers:
+    - email: mike@kraken.ci
+      name: Michal Nowikowski
+    name: kraken-ci
+    sources:
+    - https://github.com/Kraken-CI/kraken
+    type: application
+    urls:
+    - https://kraken.ci/helm-repo/charts/kraken-ci-0.854.0.tgz
+    version: 0.854.0
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+    apiVersion: v2
     appVersion: "0.836"
-    created: "2022-01-10T06:01:17.528318693Z"
+    created: "2022-01-22T05:35:57.163148124Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: 022d1fc9caed5167eb04a7ac493d6b19e5c37047b32ec003200c25d4f740d391
     home: https://kraken.ci/
@@ -32,7 +59,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.813"
-    created: "2022-01-10T06:01:17.525972211Z"
+    created: "2022-01-22T05:35:57.159393046Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: fb709f65f003e0302f2748185d97b3b6b085d17f7e52d8f87345884f10539532
     home: https://kraken.ci/
@@ -59,7 +86,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.788"
-    created: "2022-01-10T06:01:17.523784179Z"
+    created: "2022-01-22T05:35:57.156484591Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: f7620aa9d62c5b01c50a602604830ac6dbe2b67d2373682d95187ade9167c6f5
     home: https://kraken.ci/
@@ -82,4 +109,4 @@ entries:
     urls:
     - https://kraken.ci/helm-repo/charts/kraken-ci-0.788.0.tgz
     version: 0.788.0
-generated: "2022-01-10T06:01:17.522042108Z"
+generated: "2022-01-22T05:35:57.151621764Z"
