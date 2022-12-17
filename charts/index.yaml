@@ -4,8 +4,35 @@ entries:
   - annotations:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
+    appVersion: "0.1100"
+    created: "2022-12-17T06:20:04.152358546Z"
+    description: A Helm chart of Kraken CI for Kubernetes
+    digest: 8264a359f8af83bf17f9aaa879ec7bc49356a534bf6bc4e444b69b7dcf5e5ec5
+    home: https://kraken.ci/
+    icon: https://kraken.ci/img/logo-big2.svg
+    keywords:
+    - kraken-ci
+    - continuous-integration
+    - ci
+    - cd
+    - ci/cd
+    - continuous-delivery
+    - continuous-testing
+    maintainers:
+    - email: mike@kraken.ci
+      name: Michal Nowikowski
+    name: kraken-ci
+    sources:
+    - https://github.com/Kraken-CI/kraken
+    type: application
+    urls:
+    - https://kraken.ci/helm-repo/charts/kraken-ci-0.1100.0.tgz
+    version: 0.1100.0
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+    apiVersion: v2
     appVersion: "0.1097"
-    created: "2022-12-10T06:58:06.742237125Z"
+    created: "2022-12-17T06:20:04.151215234Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: 168e1e6ce8f88ba65e1a829da2f7526a0a03a852a37a2610ca04a7e3e9b6d18d
     home: https://kraken.ci/
@@ -32,7 +59,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.1091"
-    created: "2022-12-10T06:58:06.741055579Z"
+    created: "2022-12-17T06:20:04.150063027Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: 3cd24d7985127a32b927b9251ae1f3850f63b289bc22589ea661e48d0c9d7c60
     home: https://kraken.ci/
@@ -59,7 +86,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.1087"
-    created: "2022-12-10T06:58:06.739827555Z"
+    created: "2022-12-17T06:20:04.142772088Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: fcd5f220f3cf028979df8bc095b85ab539290f7caf5da521790fcc785bcc5500
     home: https://kraken.ci/
@@ -86,7 +113,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.1085"
-    created: "2022-12-10T06:58:06.738648002Z"
+    created: "2022-12-17T06:20:04.138527694Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: b8a420409e93268864bf130ceb8224a050b2439bf2ed7c0055c496c244d2245f
     home: https://kraken.ci/
@@ -113,7 +140,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.1080"
-    created: "2022-12-10T06:58:06.735055057Z"
+    created: "2022-12-17T06:20:04.136658832Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: 33f286310adbbeb6b3c389110c73e3c32d59b1cb7fe32d416ad8c60ebecea3b9
     home: https://kraken.ci/
@@ -140,7 +167,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.1079"
-    created: "2022-12-10T06:58:06.733777135Z"
+    created: "2022-12-17T06:20:04.134656579Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: 73fbe9dcd0527fa6aa8320b0f5c3a5189211e27d8ac0d24c556b0f319fe31fd1
     home: https://kraken.ci/
@@ -167,7 +194,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.1078"
-    created: "2022-12-10T06:58:06.732393767Z"
+    created: "2022-12-17T06:20:04.127791117Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: 8bba01ebdc298bd18e545340a733d5894ea56a2c123aad17f411f5a0003a6b61
     home: https://kraken.ci/
@@ -194,7 +221,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.1077"
-    created: "2022-12-10T06:58:06.731323996Z"
+    created: "2022-12-17T06:20:04.126211712Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: eb83a824042791f94dd4c2be741064ded180ae82bdfb349aaac2d4b53186a695
     home: https://kraken.ci/
@@ -221,7 +248,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.1075"
-    created: "2022-12-10T06:58:06.730399069Z"
+    created: "2022-12-17T06:20:04.122437291Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: 3aba3c62ad126ee6e3e9ce3085728b53e1326a8e761d054fee8e668480fe2a9f
     home: https://kraken.ci/
@@ -248,7 +275,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.1064"
-    created: "2022-12-10T06:58:06.729284266Z"
+    created: "2022-12-17T06:20:04.117813825Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: cca636ed8194a007f451c85e2e21de5cf82cf1e8bd1687e646c22bf26229dc40
     home: https://kraken.ci/
@@ -275,7 +302,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.1063"
-    created: "2022-12-10T06:58:06.728341946Z"
+    created: "2022-12-17T06:20:04.115921371Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: b00a7c5d9bf4c1c9331b8ec2477711f92c8acbd7adab84157514ca927b952dd3
     home: https://kraken.ci/
@@ -302,7 +329,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.1062"
-    created: "2022-12-10T06:58:06.727381039Z"
+    created: "2022-12-17T06:20:04.113944816Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: 2a9d2e49cde9daaf0cbca3ea6e8f21d834f5c5c20958ef26d97368fc0d06b56b
     home: https://kraken.ci/
@@ -329,7 +356,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.1061"
-    created: "2022-12-10T06:58:06.726431049Z"
+    created: "2022-12-17T06:20:04.110554041Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: 840e8f3e4eddcc1b9aaf54e66377ff8dcab7949715616cba6e1e7574627ee981
     home: https://kraken.ci/
@@ -356,7 +383,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.1060"
-    created: "2022-12-10T06:58:06.725406285Z"
+    created: "2022-12-17T06:20:04.104929974Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: c94a5f09555c8c831be56966c4cb6957bf9dbd3865ce3d3ae821c9ba61299ec7
     home: https://kraken.ci/
@@ -383,7 +410,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.1050"
-    created: "2022-12-10T06:58:06.724266941Z"
+    created: "2022-12-17T06:20:04.103148962Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: 52e5beea5d23c924a746178efc288e3f6dabe23385d7e58223c069d6cab46f10
     home: https://kraken.ci/
@@ -410,7 +437,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.1047"
-    created: "2022-12-10T06:58:06.722451198Z"
+    created: "2022-12-17T06:20:04.100681314Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: b8026be9f3a69cd409971515c9a6011a13e62c3aa0579b46e907ace4d39dc0fb
     home: https://kraken.ci/
@@ -437,7 +464,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.1046"
-    created: "2022-12-10T06:58:06.721210085Z"
+    created: "2022-12-17T06:20:04.098258331Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: 9f98ce510f4e26935ac0f1fe704032f9d18d52b1c169a1282358c2e73adf1671
     home: https://kraken.ci/
@@ -464,7 +491,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.1037"
-    created: "2022-12-10T06:58:06.719834378Z"
+    created: "2022-12-17T06:20:04.094278444Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: 428a509fb9acbf92a5db4ed6c079fe5f86e86b8e00a90d877f5f72d43f6fd1a5
     home: https://kraken.ci/
@@ -491,7 +518,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.998"
-    created: "2022-12-10T06:58:06.753432695Z"
+    created: "2022-12-17T06:20:04.18407576Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: 0d04e58b20dc833befac16b45445db442fb5ec8f36b9de7023bbeebd907628cd
     home: https://kraken.ci/
@@ -518,7 +545,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.980"
-    created: "2022-12-10T06:58:06.752322397Z"
+    created: "2022-12-17T06:20:04.177657762Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: f72d02bce45b3e9359f05a55399c3771a5ce2426e4046cde5d286948c3dfb299
     home: https://kraken.ci/
@@ -545,7 +572,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.979"
-    created: "2022-12-10T06:58:06.751168052Z"
+    created: "2022-12-17T06:20:04.174164576Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: dbcd4ae1110a2f19258e797dc61d1ee9b3cd57e9e50619c8edfc49d81ffd1c6c
     home: https://kraken.ci/
@@ -572,7 +599,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.978"
-    created: "2022-12-10T06:58:06.750149579Z"
+    created: "2022-12-17T06:20:04.172446292Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: cc4bef43ef75b014910d02244be90b02fcb6374d302d3a21dc1d0cf1235eca77
     home: https://kraken.ci/
@@ -599,7 +626,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.977"
-    created: "2022-12-10T06:58:06.749132741Z"
+    created: "2022-12-17T06:20:04.168355651Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: b0758fd5227531b01c6070f04064ec822e95fa0b3a89fb2ab4ac865372149091
     home: https://kraken.ci/
@@ -626,7 +653,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.962"
-    created: "2022-12-10T06:58:06.747986903Z"
+    created: "2022-12-17T06:20:04.161056286Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: 71900c301ab07b5f7620fe30ee9db95ab1a45b41f02c121febddcfd22d9fe8f2
     home: https://kraken.ci/
@@ -653,7 +680,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.945"
-    created: "2022-12-10T06:58:06.746810108Z"
+    created: "2022-12-17T06:20:04.159723675Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: 5db8b5f77dd7866691624c5e4bd0a694a45e59b1a8d2cdffac13bab16264a88b
     home: https://kraken.ci/
@@ -680,7 +707,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.933"
-    created: "2022-12-10T06:58:06.745829791Z"
+    created: "2022-12-17T06:20:04.158025597Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: ab83e1957630300afd962d07790e3c35c12d599a760c243212c21587005bd92f
     home: https://kraken.ci/
@@ -707,7 +734,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.909"
-    created: "2022-12-10T06:58:06.74485209Z"
+    created: "2022-12-17T06:20:04.155670331Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: 608928203740665c85070275604739457c2935af2a28163d892803ff4cec65f6
     home: https://kraken.ci/
@@ -734,7 +761,7 @@ entries:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
     appVersion: "0.888"
-    created: "2022-12-10T06:58:06.743582106Z"
+    created: "2022-12-17T06:20:04.153864426Z"
     description: A Helm chart of Kraken CI for Kubernetes
     digest: 6042026c7dc41e2c42a84cd001773821668c0ff9195a8e3ef348a8ac2ebe9148
     home: https://kraken.ci/
@@ -757,4 +784,4 @@ entries:
     urls:
     - https://kraken.ci/helm-repo/charts/kraken-ci-0.888.0.tgz
     version: 0.888.0
-generated: "2022-12-10T06:58:06.71656113Z"
+generated: "2022-12-17T06:20:04.091249192Z"
